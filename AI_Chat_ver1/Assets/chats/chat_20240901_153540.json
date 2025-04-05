@@ -1,0 +1,28 @@
+{
+  "Messages": [
+    {
+      "Role": "user",
+      "Content": "тест2"
+    },
+    {
+      "Role": "assistant",
+      "Content": "{\"response\":\"Success!\"}"
+    },
+    {
+      "Role": "user",
+      "Content": "проверка чат-бота"
+    },
+    {
+      "Role": "assistant",
+      "Content": "It seems like you're testing the chatbot! I'm happy to help with any questions or topics you'd like to discuss. What would you like to talk about or ask?"
+    },
+    {
+      "Role": "user",
+      "Content": "пиши на русском, пожалуйста"
+    },
+    {
+      "Role": "assistant",
+      "Content": "Похоже, что вы тестировали чат-бота! Я рад помочь с любыми вопросами или темами, о которых вы хотели бы говорить. Какой вопрос или тема вы хотели бы обсудить?"
+    }
+  ]
+}
